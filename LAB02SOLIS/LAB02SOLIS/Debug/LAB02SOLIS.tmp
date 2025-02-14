@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\Debug\LAB02SOLIS.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAB02SOLIS.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAB02SOLIS.map</FILE>
+  <FILE>LAB02SOLIS.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>26</LINE></SETUP>
+  <INIT_TMR0><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>159</LINE></INIT_TMR0>
+  <DISPLAY><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>149</LINE></DISPLAY>
+  <MAIN_LOOP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>61</LINE></MAIN_LOOP>
+  <ESTADO_BOTONES><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>90</LINE></ESTADO_BOTONES>
+  <DB_1><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>104</LINE></DB_1>
+  <DB_2><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>117</LINE></DB_2>
+  <DELAY1><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>106</LINE></DELAY1>
+  <AUMENTAR><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>139</LINE></AUMENTAR>
+  <DELAY2><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>119</LINE></DELAY2>
+  <DECREMENTAR><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>129</LINE></DECREMENTAR>
+  <RESET_DEC><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>133</LINE></RESET_DEC>
+  <RESET_INC><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>144</LINE></RESET_INC>
+  <Tabla><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Lab02Solis\LAB02SOLIS\LAB02SOLIS\main.asm</FILE><LINE>171</LINE></Tabla>
+ </LABELS>
+</ASSEMBLER_INFO>
